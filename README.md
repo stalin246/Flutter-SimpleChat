@@ -1,10 +1,6 @@
 
 # Aplicación de Chat en Flutter
-
-
 https://github.com/stalin246/Flutter-SimpleChat/assets/77359338/9b3a97be-29c9-483c-9a67-1dba535faf07
-
-
 ## Descripción
 Esta es una aplicación de chat simple construida con Flutter. La aplicación tiene una interfaz de usuario moderna e incluye funciones como enviar y recibir mensajes, mostrar avatares de usuario y manejar la entrada con un campo de mensaje personalizado.
 
